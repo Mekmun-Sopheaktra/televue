@@ -18,10 +18,10 @@ import logging
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update, WebAppInfo
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, CallbackContext
 
-TOKEN = 'yourbottoken'
-URL = 'https://mboretto.github.io/telegram-bot-vue-wep-app/'
+TOKEN = '7765797449:AAGgkugYphqHBtfAwZhxNESKrtvWZjjUP4Q'
+URL = 'https://mekmun-sopheaktra.github.io/televue/'
 # This have to be configured with botfather
-BOT_FATHER_URL = 't.me/yourbot/appname'
+BOT_FATHER_URL = 't.me/@no_name_logistic_bot'
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
